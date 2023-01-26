@@ -1,4 +1,6 @@
 # Chat App
+<img width="1792" alt="image" src="https://user-images.githubusercontent.com/116579335/214749154-e99b951b-f69b-45e7-93e5-5a61dfcc31f1.png">
+
 
 Welcome to the Chat App! This app allows you to chat with other users in real-time. 
 
